@@ -1,4 +1,4 @@
-# AI-FRAUD-Detection-System
+# AI-FRAUD-Detection-System BY @shrl.py
 
 Sistem Machine Learning ini dirancang khusus untuk membantu pekerjaan audit
 
