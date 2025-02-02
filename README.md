@@ -2,7 +2,7 @@
 
 Sistem Machine Learning ini dirancang khusus untuk membantu pekerjaan audit
 
-# Tutorial Penggunaan Kode Deteksi Fraud Transaksi Keuangan
+# Tutorial Penggunaan AI Deteksi Fraud Transaksi Keuangan
 
 Kode ini digunakan untuk mendeteksi transaksi keuangan yang bersifat fraud (penipuan) menggunakan algoritma *Random Forest*. Berikut tutorial penggunaannya:
 
